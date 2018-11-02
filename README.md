@@ -1,10 +1,10 @@
-# Mcenter
-## Versión 1.7 (Final) 
+# MCenter
+## Versión 1.0 (Final) 
 
 MCenter fue desarrollado con:
 
 * Angular - El motor para este proyecto!
-* Ionic - Frame del mismo Angular enfocado a dispostivos móviles.
+* Ionic - Frame del mismo Angular enfocado a dispositivos móviles.
 
 Incluido:
 1. Registro de usuarios
